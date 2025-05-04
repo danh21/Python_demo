@@ -1,6 +1,6 @@
 # 📦 Project Name
 
-> Image filtering in image processing.
+> Python demos.
 
 ---
 
@@ -14,21 +14,24 @@
     - [Prerequisites](#prerequisites)
     - [Source](#source)
     - [Usage](#usage)
-    - [Reference](#reference)
 
 ---
 
 ## 📝 About
 
-> This is a simple tool to filter image by many types.
+> Small programs written by Python language.
 
 ---
 
 ## ✨ Features
 
-- ✅ Add noise with density (Gaussian, Poisson, Salt & Pepper, Speckle)
-- ✅ Noise removal filter by size
-- ✅ Enhancement
+- ✅ Games: whack a mole
+- ✅ matplotlib demos
+- ✅ Draw image, animation
+- ✅ Data struct
+- ✅ Work with jira, firebase
+- ✅ Use Tkinter to create GUI
+- ✅ Small programs for fundamental
 
 ---
 
@@ -37,21 +40,20 @@
 ### Prerequisites
 
 - List software dependencies or system requirements here:
-  - MATLAB
+  - Python
+  - Modue packages: pygame, matplotlib, numpy, tkinter, jira, firebase ...
+  - VSCode
 
 ### Source
 
-- *.fig: design GUI
-- *.m: main app
+- *.py: main app
+- assets/: input
+- output/: result of some programs
 
 ### Usage
 
-- Open file *.m in MATLAB
-- Change folder to location containing source code
-- Run
-- When app window opens, choose image file first
-- Apply custom image filters (fill mandatory parameters) and see results 
-
-### Reference
-
-- 
+- > pip install module
+- > git clone git@github.com:ruijiezhou/drawingpanel.git ; locate as: ***...\Python\Python312\Lib\drawingpanel.py***
+- Open workspace in VSCode
+- Open *.py file
+- Run Code
