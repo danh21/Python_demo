@@ -28,7 +28,7 @@
 - ✅ Games: whack a mole
 - ✅ matplotlib demos
 - ✅ Draw image, animation
-- ✅ Data struct
+- ✅ Data struct (array, number, string, graph)
 - ✅ Work with jira, firebase
 - ✅ Use Tkinter to create GUI
 - ✅ Small programs for fundamental
@@ -49,11 +49,12 @@
 - *.py: main app
 - assets/: input
 - output/: result of some programs
+- *.pyc: generated file
 
 ### Usage
 
-- > pip install module
-- > git clone git@github.com:ruijiezhou/drawingpanel.git ; locate as: ***...\Python\Python312\Lib\drawingpanel.py***
+- pip install \<module>
+- git clone git@github.com:ruijiezhou/drawingpanel.git ; locate at: ***...\Python\Python312\Lib\drawingpanel.py***
 - Open workspace in VSCode
 - Open *.py file
 - Run Code
